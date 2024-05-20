@@ -1,0 +1,19 @@
+.holder{
+    display: flex;
+    
+} 
+.item1{
+    order: 1;
+}
+.item2{
+    order: 4;
+}
+.item3{
+    order: 4;
+}
+.item4{
+    order: 4;
+}
+.item5{
+    order: 2;
+}
